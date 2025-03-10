@@ -20,3 +20,15 @@ Reference :
 https://www.kaggle.com/datasets/adarshrouniyar/air-pollution-image-dataset-from-india-and-nepal
 
 
+# Air Pollution Image Dataset (Filtered & Refined)
+
+The original dataset was preprocessed by removing duplicate images and filtering out unnecessary data, resulting in a refined dataset with 11,459 unique images.
+
+## 📂 Dataset Structure
+The dataset is organized into multiple subfolders based on air quality categories.
+
+- **Original Dataset Size:** Larger, with duplicate and redundant images  
+- **Filtered Dataset Size:** **11,459 unique images**  
+
+ Filetered Dataset:
+https://drive.google.com/drive/folders/1QJfg-z1p8KnQWR2b60-lH1Z8mboY6U8e?usp=sharing
