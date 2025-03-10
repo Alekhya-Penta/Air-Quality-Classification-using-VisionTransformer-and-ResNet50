@@ -18,3 +18,5 @@ Hazardous/Severe (301-500): Health warning of emergency conditions: Everyone is 
 
 Reference :
 https://www.kaggle.com/datasets/adarshrouniyar/air-pollution-image-dataset-from-india-and-nepal
+
+
