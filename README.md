@@ -6,7 +6,7 @@ Air pollution is a major environmental and public health concern, linked to resp
 #**Deployed Application**  
 You can access the deployed application here:  
 
- **[Click here to view the app](https://air-quality-classification-using-visiontransformer-and-resnet5.streamlit.app/)**  
+ **(https://air-quality-classification-using-visiontransformer-and-resnet5.streamlit.app/)**  
 
 #**How to Run the Application Locally**  
 
